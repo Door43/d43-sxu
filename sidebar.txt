@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sxu:home|Door43 (sxu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sxu|d43-sxu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sxu/archive/master.zip|d43-sxu.zip]]
+
+**Recent Changes**
+{{changes>ns = sxu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sxu|Ethnologue data]]
+
